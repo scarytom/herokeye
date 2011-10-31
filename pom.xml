@@ -36,7 +36,7 @@
                             <assembleDirectory>target</assembleDirectory>
                             <programs>
                                 <program>
-                                    <mainClass>Herokeye</mainClass>
+                                    <mainClass>org.netmelody.herokeye.Herokeye</mainClass>
                                     <name>herokeye</name>
                                 </program>
                             </programs>
