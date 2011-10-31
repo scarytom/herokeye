@@ -30,7 +30,7 @@
                             <programs>
                                 <program>
                                     <mainClass>Herokeye</mainClass>
-                                    <name>webapp</name>
+                                    <name>herokeye_start</name>
                                 </program>
                             </programs>
                         </configuration>
