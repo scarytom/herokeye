@@ -37,7 +37,7 @@
                             <programs>
                                 <program>
                                     <mainClass>Herokeye</mainClass>
-                                    <name>herokeye_start</name>
+                                    <name>herokeye</name>
                                 </program>
                             </programs>
                         </configuration>
